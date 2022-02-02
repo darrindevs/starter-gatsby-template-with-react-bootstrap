@@ -1,6 +1,6 @@
 ## Modifications 
 
-- took Gatsby default starter, added React Bootstrap package, removed starter css, imported React Bootstrap and custom.css
+- took Gatsby default starter, added React Bootstrap package, removed starter css, imported React Bootstrap and added custom.css
 
 ## How to Use
 
