@@ -1,3 +1,20 @@
+## Modifications 
+
+- took Gatsby default starter, added React Bootstrap package, removed starter css, imported React Bootstrap and custom.css
+
+## How to Use
+
+- gatsby new my-cool-new-project https://github.com/darrindevs/starter-gatsby-template-with-react-bootstrap 
+- gatsby develop
+- new project will include required packages 
+- includes .gitignore 
+
+## Tutorial 
+https://www.youtube.com/watch?v=rUTaqgAfstM
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
